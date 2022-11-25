@@ -1,0 +1,222 @@
+body{
+  margin: 0;
+  background-color: rgb(187, 198, 177);
+}
+header{
+  text-align: center;
+  font-size: 50px;
+  color: orange;
+}
+
+.ime  {
+  width: 800px;
+  height: 400px;
+  margin: auto;
+}
+.nav  {
+  width: 800px;
+  background-color: rgb(56, 192, 204);
+  margin: auto;
+  overflow: auto;
+}
+ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+li{
+  float: left;
+}
+
+a:link{
+  color: white;
+  width:100px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  padding: 15px;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+a:hover{
+  background-color: rgb(136, 121, 67);
+}
+.brookf {
+  display: block;
+  margin-left: auto;
+  margin-right: 130px;
+  width: 50%;
+}
+.brook{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -80px;
+  
+}
+.chopperf{
+  display: block;
+  margin-left: auto;
+  margin-right: 140px;
+  width: 50%;
+}
+.chopper{
+  display: block;
+  margin-left: auto;
+  margin-top: -90px;
+  margin-right: auto;
+  
+}
+.frankyf{
+  display: block;
+  margin-left: auto;
+  margin-right: 110px;
+  width: 50%;
+}
+.franky{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -90px;
+  
+}
+.jinbeif{
+  display: block;
+  margin-left: auto;
+  margin-right: 50px;
+  width: 50%;
+}
+.jinbei{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -90px;
+
+}
+
+.luffyf{
+  display: block;
+  margin-left: auto;
+  margin-right: 70px;
+  width: 50%;
+}
+.luffy{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -80px;
+ 
+}
+.namif{
+  display: block;
+  margin-left: auto;
+  margin-right: 130px;
+  width: 50%;
+}
+.nami{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -80px;
+ 
+}
+.robinf{
+  display: block;
+  margin-left: auto;
+  margin-right: 100px;
+  width: 50%;
+}
+.robin{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -80px;
+ 
+}
+.sanjif{
+  display: block;
+  margin-left: auto;
+  margin-right: 100px;
+  width: 50%;
+}
+.sanji{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -80px;
+ 
+}
+.usoppf{
+  display: block;
+  margin-left: auto;
+  margin-right: 130px;
+  width: 50%;
+}
+.usopp{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -80px;
+  
+}
+.zorof{
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: 130px;
+  
+}
+.zoro{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -80px;
+}
+h1{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+div.arc{
+  background-color: rgb(229, 229, 198);
+    padding: 20px;
+    border: 5px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+table.schedule{
+  border: 5px solid rgb(136, 136, 244);
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+table.schedule td, th{
+  padding: 7px;
+  border: 1px solid rgb(125, 125, 191);
+}
+table.schedule thead {
+  background-color: darkslategrey;
+  color: rgb(236, 112, 112);
+  font-weight: bold;
+}
+table.schedule tfoot {
+  background-color: rgb(160, 204, 234);
+  color: rgb(76, 62, 62);
+}
+caption{
+  text-align: left;
+  caption-side: top;
+}
+table.schedule tr td{
+  font-weight: bold;
+  background-color: rgb(165, 238, 243);
+}
+
+.line {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  opacity: 0.7;
+  
+}

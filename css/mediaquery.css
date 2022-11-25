@@ -1,0 +1,30 @@
+@media only screen and (max-width: 500px){
+    body {
+     text-align: center;
+     background-color: rgb(84, 54, 94);
+     margin: auto;
+     display: block;
+
+    }
+    .one{
+       width: 60%;
+       height: 60%;
+       margin-right: 400px;
+       margin-left: 20px;
+      
+    }
+    .nav   {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+  }
+  @media only screen and (min-width: 768px) and (max-width: 1024px){
+    body{
+        background-color: darkgrey;
+        text-align: center;
+    
+    }
+
+  }

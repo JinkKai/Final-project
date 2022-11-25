@@ -1,0 +1,12 @@
+
+  body{
+    background: none;
+    color:rgb(113, 41, 102);
+    box-shadow: none;
+  }
+header, .nav, footer {
+    display: none;
+}
+.schedule{
+    page-break-before: always;
+}
