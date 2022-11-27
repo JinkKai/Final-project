@@ -4,7 +4,7 @@
     color:rgb(113, 41, 102);
     box-shadow: none;
   }
-header, .nav, footer {
+header, .nav, footer, iframe,.video {
     display: none;
 }
 .schedule{
