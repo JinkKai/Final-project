@@ -1,10 +1,13 @@
 
+ @media print and (max-width: 8.5in) and (max-height: 11in){
+
   body{
     background: none;
     color:rgb(113, 41, 102);
     box-shadow: none;
   }
-header, .nav, footer, iframe,.video {
+}
+header, .nav, footer, iframe,.video , br{
     display: none;
 }
 .schedule{
