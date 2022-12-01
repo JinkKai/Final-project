@@ -7,7 +7,7 @@
     box-shadow: none;
   }
 }
-header, .nav, footer, iframe,.video , br{
+.nav, footer, iframe,.video , br{
     display: none;
 }
 .schedule{
