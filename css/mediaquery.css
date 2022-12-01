@@ -78,7 +78,7 @@ td {
   
   }
   .nav{
-    width: 100%;
+    width: 90%;
     height: auto;
   }
   .schedule{
@@ -87,5 +87,11 @@ td {
   }
   h1{
     text-align: center;
+  }
+  .zoro,.luffy ,.nami, .usopp,.sanji, .chopper, .robin , .franky, .brook, .jinbei{
+    margin-right: 90%;
+  }
+  .zorof, .luffyf, .namif, .usoppf, .sanjif, .chopperf, .robinf, .frankyf, .brookf, .jinbeif{
+    margin-left: 27%;
   }
 }
